@@ -13,8 +13,11 @@ CascadeClassifier es un algoritmo de aprendizaje automático utilizado para la d
 El proceso de entrenamiento para la clasificación de imágenes con el algoritmo CascadeClassifier consiste en lo siguiente:
 
 1- Recopilar imágenes de entrenamiento que contengan los objetos que se quieren detectar.
+
 2- Extracción de características utilizando el algoritmo de Haar.
+
 3- Entrenamiento del clasificador utilizando un conjunto de datos de entrenamiento etiquetados.
+
 4- Pruebas del clasificador utilizando un conjunto de datos de prueba.
 
 ## Requisitos
